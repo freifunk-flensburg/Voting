@@ -1,0 +1,10 @@
+Ich würde gerne IPv6 über das Peering von Freie Netzwerke e.V. oder einem alternativen Zugang nach außen freischalten.
+Hierzu muss auf den Gateways ein VPN und ein BGP Dienst laufen der diese Konnektivität sicherstellt. 
+Jeder Client würde dann eine von außen erreichbare eigene IPv6 Adresse erhalten.
+
+Pro:
+- Feste Eigene IPv6 Adressen sehr einfach zu bekommen
+- Neuer Internetstandard auch über Freifunk nutzbar
+
+Contra:
+- Firewall und Nutzer evtl. nicht darauf vorbereitet
