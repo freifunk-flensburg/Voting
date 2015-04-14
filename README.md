@@ -55,5 +55,15 @@ Das Issue kann dann geschlossen werden und wird im System archiviert. Issues die
 
 ---
 ###Häufige Fragen
+
+**Muss ich erst ein Voting erstellen, bevor ich einen Dienst im Freifunk anbieten darf?**  
+Nein, jeder darf ohne vorherige Nachfrage einen Dienst in unserem Netz anbieten. Wenn du eine [statische IP-Adresse](https://github.com/freifunk-flensburg/statische_ip_zuordnung/blob/master/static_ips) oder eine [.fffl-Domain](https://github.com/freifunk-flensburg/dns_fffl) bekommen möchtest, reiche bitte einen Pull-Request für die jeweiligen Dateien ein. Alternativ kannst du uns auch eine Mail auf die [**Mailigliste**](mailto:liste@freifunk-flensburg.de) schicken und wir helfen dir dabei.  
+
+**Kann ich meine Stimme an jemanden anderes delegieren, wenn ich keine Ahnung von einem Thema habe?**  
+Nein. Du kannst aber selbst verständlich dir Rat bei unseren Mitgliedern holen, um dir einen besseren Überblick zu schaffen und um eine Meinung zu bilden. Sollte dir dennoch das Thema zu komplex sein bist du nicht verpflichtet deine Stimme abzugeben.
+
+**Kann ich dieses ReadMe bearbeiten?**  
+Ja! Wenn du Rechtschreibfehler findest oder eine neue Frage zum F.A.Q. hinzufügen möchtest, stelle einfach einen Pull-Request.
+
 ---
 *Freifunk Flensburg is a project by the nordlab e.V. and Chaostreff-Flensburg*
