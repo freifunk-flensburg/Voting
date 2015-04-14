@@ -55,6 +55,9 @@ Das Issue kann dann geschlossen werden und wird im System archiviert. Issues die
 ---
 ###Häufige Fragen
 
+**Wie kann ich immer über die aktuellen Votings informiert bleiben?**  
+Am einfachsten ist es die *'Watch'*-Funktion von GitHub zu verwenden. So wirst du immer informiert wenn ein neues Voting erstellt wird. Bei neuen Kommentaren in Votings an denen du selbst teilnimmst wirst du von GitHub automatisch informiert.
+
 **Muss ich erst ein Voting erstellen, bevor ich einen Dienst im Freifunk anbieten darf?**  
 Nein, jeder darf ohne vorherige Nachfrage einen Dienst in unserem Netz anbieten. Wenn du eine [statische IP-Adresse](https://github.com/freifunk-flensburg/statische_ip_zuordnung/blob/master/static_ips) oder eine [.fffl-Domain](https://github.com/freifunk-flensburg/dns_fffl) bekommen möchtest, reiche bitte einen Pull-Request für die jeweiligen Dateien ein. Alternativ kannst du uns auch eine Mail auf die [**Mailigliste**](mailto:liste@freifunk-flensburg.de) schicken und wir helfen dir dabei.  
 
