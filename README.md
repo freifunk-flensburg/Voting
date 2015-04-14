@@ -12,7 +12,7 @@ Beispielvoting:
 
 ---
 ###An Votings teilnehmen
-Du findest alle aktuell laufenden Votings im [Issue-Bereich](https://github.com/freifunk-flensburg/Voting/issues) dieses Repository. Um zu den Issues zu gelangen, klicke auf den entsprechenden Tab auf der rechten Seite, oder den Link in der Beschreibung.
+Du findest alle aktuell laufenden Votings im [**Issue-Bereich**](https://github.com/freifunk-flensburg/Voting/issues) dieses Repository. Um zu den Issues zu gelangen, klicke auf den entsprechenden Tab auf der rechten Seite, oder den Link in der Beschreibung.
 
 ![Übersicht aller aktuellen Votings](/docs/media/issues.png)
 *Issue-Bereich mit laufenden Votings*
@@ -20,7 +20,7 @@ Du findest alle aktuell laufenden Votings im [Issue-Bereich](https://github.com/
 Neben dem Namen des jeweiligen Votings findest du die farbigen Labels. Um die nur die Votings zu einem bestimmten Thema anzeigen zu lassen, klicke auf das entsprechende Label.  
 Um an einem Voting teilzunehmen, klicke auf den entsprechenden Titel. Im einzelnen Issue findest du nun die Beschreibung des Votings, gefolgt von allen bisher abgegebenen Kommentaren und der Möglichkeit selbst einen Kommentar zu hinterlassen.
 
-![Laufendes Voting](/docs/media/)
+![Laufendes Voting](/docs/media/voting.png)
 *Ein Voting mit Kommentaren*
 
 Es hat sich als sinnhaft erwiesen seine Zustimmung oder Abneigung gegenüber den Vorschlägen in den Kommentaren durch *'+1'* und *'-1'* zu verschriftlichen. So kann die flasche Einschätzung deiner Kommentare einfach vermieden werden. Du kannst deine Stimme im Verlauf der Diskussion natürlich verändern, solltest du deine Meinung geändert haben.  
