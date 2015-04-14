@@ -49,6 +49,10 @@ Wenn du zufrieden mit deinem Voting bist kannst du es über einen Klick auf *'Su
 
 ---
 ###Ende eines Votings
+Votings besitzen kein vorgegebenes Ende. Votings mit einem zugewiesenen Milestone und jene mit einem durch ihre Thematik vorgegebenem Ende sind natürlich begrenzt.
+Sollte sich ein klares Ende der Diskussion um ein Voting erkennbar machen, muss dieses zu einer finalen Abstimmung in der [**Mailigliste**](mailto:liste@freifunk-flensburg.de) veröffentlicht werden.  
+Das Issue kann dann geschlossen werden und wird im System archiviert. Issues die eindeutig nicht auf der Mailingliste abgestimmt werden, werden ebenfalls nach einiger Zeit geschlossen.
+
 ---
 ###Häufige Fragen
 ---
