@@ -29,6 +29,24 @@ Vergiss nicht das eine Diskussion auch davon lebt den Argumenten der Gegenseite 
 
 ---
 ###Ein Voting anlegen
+Um ein neues Voting zu erstellen, klicke in der [Issue-Übersicht](https://github.com/freifunk-flensburg/Voting/issues) auf den grünen [**New Issue Button**](https://github.com/freifunk-flensburg/Voting/issues/new). Du kannst deinem Titel nun einen Titel geben, deinen Vorschlag beschreiben, ein angemessenes Label hinzufügen, einen relevanten Milestone angeben und eine Person dem Voting assignen. Ein Titel und eine Beschreibung werden für die Erstellung einens Votings benötigt. Label, Milestones und Assignees sind optional.
+
+![Issue erstellen](/docs/media/new_issue.png)
+*Dialog zum erstellen von Issues*
+
+**Titel & Beschreibung**  
+Gebe deinem Voting einen aussagekräftigen Namen und beschreibe deinen Vorschlag ausführlich. Füge ebenfalls gerne Beispiele für die Umsetzung deines Vorschlags, Bilder und andere relevante Materialien bei.
+
+**Labels, Milestones & Asignees**  
+Du kannst optional Labels, Milestones und einen Asignee deinem Voting hinzufügen. Wenn du dir nicht sicher bist, oder diese einfach nicht benötigst, lasse sie weg. Diese Punkte können auch noch nachträglich hinzugefügt und geändert werden.  
+**Labels** dienen der thematischen Sortierung aller Votings. Sollte kein Label zu deinem Voting passen kannst du ein neues in der Issue-Übersicht erstellen.  
+**Milestones** dienen dazu ein Voting mit einem Fertigstellungsdatum in der Zukunft zu verknüpfen. Dies kann zum Beipiel das Release einer neuen Firmware sein. Soll dein Voting somit ein Feature für die neue Firmware vorschlagen oder diskutieren, verknüpfe es mit dem entsprechenden Voting.  
+**Asignees** sind für die Zuweisung eines Votings für bestimmte Personen vorgesehen. Zur Erstellung eines Votings ist es eher selten das dieses einer Person als Aufgabe zugewiesen werden sollte. Nützlich kann dies aber zum Beispiel nach Beendigung eines Votings sein. Soll ein abgestimmter Vorschlag nun umgesetzt werden kann der dafür relevante Nutzer hier makiert werden.
+
+
+Wenn du zufrieden mit deinem Voting bist kannst du es über einen Klick auf *'Submit'* abschicken.  
+**Herzlichen Glückwunsch**, dein Voting ist nun öffentlich auf der [Issue-Übersicht](https://github.com/freifunk-flensburg/Voting/issues) zu finden. Beachte bitte das nun auch alle Benutzer die das Repository über die *'Watch'*-Funktion beobachten benachrichtigt werden und gegebenenfalls Bots die Veröffentlichung deines Issues in IRCs und ähnlichen Services bekannt geben.
+
 ---
 ###Ende eines Votings
 ---
