@@ -7,8 +7,7 @@ Hier Sammeln wir alle Community betreffenden Vorschläge um diese zu diskutieren
 
 Votings werden als Issues zu diesem Repository angelegt und durch die Community diskutiert. Abgestimmt wird generell durch Kommentare mit *'+1'* für eine Zustimmung oder mit *'-1'* für eine Ablehnung des Vorschlags.
 
-Beispielvoting:  
-*Link folgt*
+[Beispielvoting](https://github.com/freifunk-flensburg/Voting/issues/13)
 
 ---
 ###An Votings teilnehmen
