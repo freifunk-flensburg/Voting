@@ -31,7 +31,7 @@ Vergiss nicht das eine Diskussion auch davon lebt den Argumenten der Gegenseite 
 Um ein neues Voting zu erstellen, klicke in der [Issue-Übersicht](https://github.com/freifunk-flensburg/Voting/issues) auf den grünen [**New Issue Button**](https://github.com/freifunk-flensburg/Voting/issues/new). Du kannst deinem Titel nun einen Titel geben, deinen Vorschlag beschreiben, ein angemessenes Label hinzufügen, einen relevanten Milestone angeben und eine Person dem Voting assignen. Ein Titel und eine Beschreibung werden für die Erstellung einens Votings benötigt. Label, Milestones und Assignees sind optional.
 
 ![Issue erstellen](/docs/media/new_issue.png)
-*Dialog zum erstellen von Issues*
+*Dialog zum Erstellen von Issues*
 
 **Titel & Beschreibung**  
 Gebe deinem Voting einen aussagekräftigen Namen und beschreibe deinen Vorschlag ausführlich. Füge ebenfalls gerne Beispiele für die Umsetzung deines Vorschlags, Bilder und andere relevante Materialien bei.
